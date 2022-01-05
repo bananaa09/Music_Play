@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Desktop/Song"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "MusicPlayer",
+		"liveServer.settings.port": 5501
+	}
+}
