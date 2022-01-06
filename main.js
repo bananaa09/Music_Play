@@ -44,7 +44,7 @@ const app = {
             name: 'Xin một lần ngoại lệ (Cover)',
             singer: 'Vũ',
             path: './assets/music/music17.mp3',
-            image: './assets/music/Ech.png'
+            image: './assets/music/img3.jpg'
         },
         {
             name: 'Sài GÒn Hôm Nay Mưa',
